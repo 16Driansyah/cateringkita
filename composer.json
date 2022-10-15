@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/catering_kita",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\CateringKita\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dede Riansyah",
+            "email": "21578019@stmik.jayakarta.ac.id"
+        }
+    ],
+    "require": {}
+}
